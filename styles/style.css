@@ -361,7 +361,7 @@ li {
     .banner-img>img{
         width: 355px;
         height: auto;
-        padding-right: 25px;
+        padding-right: 0px;
     }
 
     .banner-title{
